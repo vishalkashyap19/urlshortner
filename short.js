@@ -2,7 +2,7 @@ new Vue({
 
     el:'#app',
     data :{
-        originalurl:,
+        originalurl: 'helo',
         shorturl:
         
     },
